@@ -80,3 +80,4 @@ The dataset includes nine mock files that encompass customer information, sales 
 ---
 
 ## **Insights**
+This case study demonstrated how mock data can provide actionable insights through effective analysis and visualization. The integration of **SQL for data preparation** and **Power BI for visualization** highlights the value of combining technical skills to deliver business-ready solutions.
